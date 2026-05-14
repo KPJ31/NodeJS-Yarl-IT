@@ -133,5 +133,5 @@
 // // a funtion have one rest parameter, and it must be the last parameter in the function definition. It allows the function to accept an indefinite number of arguments as an array. In the example above, the rest parameter is used to calculate the total of all the marks passed as arguments to the calculateTotal function.
 
 
-user get marks rest parameter total avg result a return pannum 
-marks get time name and class 
+// user get marks rest parameter total avg result a return pannum 
+// marks get time name and class 
